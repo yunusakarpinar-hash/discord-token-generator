@@ -1,7 +1,7 @@
 {
-  "name": "tokenbrute",
+  "name": "tokengenbotu",
   "version": "2.0.0",
-  "description": "Token Brute forcing",
+  "description": "Token generator",
   "main": "index.js",
   "dependencies": {
     "chalk": "^4.1.1",
@@ -18,6 +18,6 @@
     "token",
     "discord"
   ],
-  "author": "Luci",
-  "license": "ISC"
+  "author": "Bexa",
+  "license": "MIT"
 }
